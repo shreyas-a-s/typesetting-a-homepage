@@ -52,6 +52,8 @@ body {
   font-family: 'Libre Baskerville', serif;
   font-size: 1.6rem; /* Equivalent to 16px */
   line-height: 1.6; /* 1.6 times the font size */
+  letter-spacing: 0.005em;
+  word-spacing: 0.01em;
 }
 
 h1, h2, h3, h4, h5, h6 {
