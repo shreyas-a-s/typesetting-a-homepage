@@ -103,3 +103,13 @@ a[href*="http"] {
   background: url(external-link-52.png) no-repeat 100% 0;
   background-size: 16px 16px;
 }
+
+ul, ol {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  padding-left: 20px;
+}
+
+li {
+  line-height: 1.6;
+}
