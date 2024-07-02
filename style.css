@@ -44,10 +44,15 @@ header, footer {
 
 /* WRITE YOUR CODE BELOW HERE */
 
+html {
+  font-size: 62.5%; /* Sets 1rem to 10px (since 1rem = 10px when 62.5% of 16px = 10px) */
+}
+
 body {
-    font-family: 'Libre Baskerville', serif;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.6rem; /* Equivalent to 16px */
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', serif;
 }
