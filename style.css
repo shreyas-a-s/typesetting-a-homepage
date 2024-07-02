@@ -93,3 +93,7 @@ a:focus {
   color: #cc3300;
   text-decoration: none;
 }
+
+a:active {
+  color: #cccc00;
+}
