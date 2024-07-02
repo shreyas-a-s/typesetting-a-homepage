@@ -57,3 +57,13 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto Slab', serif;
 }
+
+header {
+  padding: 20px 0;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
